@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Lomo Web Pixel';
+    src: local('Lomo Web Pixel Pixel 6'), local('Lomo-Web-Pixel-Pixel-6'),
+        url('LomoWebPixelLTStd-6.woff2') format('woff2'),
+        url('LomoWebPixelLTStd-6.woff') format('woff'),
+        url('LomoWebPixelLTStd-6.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
