@@ -17,6 +17,7 @@ Simple to run TV Simulation with following features:
 - Very bad admin and upload panel
 
 TODO:
+- Custom languages and locations because it's mostly german and my city.
 - Season specific airings (christmas, halloween etc.)
 - Airings with specific timeslots
 - Queue generation optimizations
