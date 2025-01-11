@@ -5,6 +5,7 @@ Made originally for my own personal use so exceptionally messy right now.
 
 Simple to run TV Simulation with following features:
 - Channels
+- Setting a fake date/time offset and then only seeing ads/idents/shows from that time with time progressing from that point onwards.
 - Episodes airing in order
 - Show Seasons
 - Ad-breaks
