@@ -1,5 +1,6 @@
 # oldTVThingy
-Installation and demo video coming soon
+Installation and demo video coming soon.
+
 Made originally for my own personal use so exceptionally messy right now.
 
 
