@@ -1,5 +1,5 @@
 # oldTVThingy
-Installation and demo video coming soon.
+Demo: http://www.bitview.net/watch?v=clj8hxOX
 
 Made originally for my own personal use so exceptionally messy right now.
 
